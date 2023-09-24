@@ -1,0 +1,10 @@
+name: nyxx_migrator
+version: 0.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  analyzer: ^6.0.0
+
